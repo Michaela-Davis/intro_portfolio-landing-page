@@ -1,9 +1,26 @@
 body {
   font-family: Lucida, serif;
 }
+
 img {
   max-height: 200px;
   float: right;
+}
+
+a {
+  color: teal;
+}
+
+.name-CASCADING {
+  font-family: fantasy;
+  color: teal;
+  text-align: center;
+  font-size: 45px;
+}
+
+.underline {
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 .box-model {
@@ -12,6 +29,7 @@ img {
   padding: 2px;
   background-color: lightcyan;
 }
+
 .whitewater {
   text-transform: uppercase;
 }
