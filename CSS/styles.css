@@ -1,5 +1,6 @@
 body {
   font-family: Lucida, serif;
+  background: linear-gradient(lightcyan, white);
 }
 
 img {
@@ -9,6 +10,10 @@ img {
 
 a {
   color: teal;
+}
+
+ul {
+  list-style: none;
 }
 
 .name-CASCADING {
