@@ -5,7 +5,7 @@
 #### By _**Michaela Davis**_
 
 ## GitHub Pages Link
-https://michaela-davis.github.io/intro_portfolio-landing-page/
+michaela-davis.github.io/intro_portfolio-landing-page
 
 ## Description
 
